@@ -1,2 +1,2 @@
 # Vue-search-pagination
-# Vue-search-pagination
+npm install
